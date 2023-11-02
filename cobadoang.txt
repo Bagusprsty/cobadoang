@@ -1,1 +1,3 @@
 ini dibuat hanya untuk belajar github
+-- contoh pertama
+-- contoh kedua
